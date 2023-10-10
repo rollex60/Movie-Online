@@ -51,3 +51,23 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ##
 
 ![Alt text](public/movie-3.png)
+
+##
+
+![Alt text](public/movie-4.png)
+
+##
+
+![Alt text](public/movie-5.png)
+
+##
+
+![Alt text](public/movie-6.png)
+
+##
+
+![Alt text](public/movie-7.png)
+
+##
+
+![Alt text](public/movie-8.png)
