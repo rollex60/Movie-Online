@@ -37,4 +37,17 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 =======
 # Movie-Online
->>>>>>> 7fa6311812c282db6d90cf52893f4e2b9e6f636a
+
+![Alt text](public/movie.png)
+
+##
+
+![Alt text](public/movie-1.png)
+
+##
+
+![Alt text](public/movie-2.png)
+
+##
+
+![Alt text](public/movie-3.png)
